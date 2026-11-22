@@ -1,0 +1,6 @@
+{
+  "name": "Joias Semi Boutique",
+  "description": "Boutique feminina em Maputo especializada em saltos, sapatos, vestidos, saias e cabelos humanos. Encomendas via WhatsApp com entrega em 48 horas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
